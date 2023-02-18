@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game-board {
+  border: 1px solid #ddd;
+  position: relative;
+}
